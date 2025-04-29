@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 14, in script
+    show kaiden happy zoom 0.25
+Exception: Image 'kaiden happy' does not accept attributes 'zoom 0 .25'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 14, in script
+    show kaiden happy zoom 0.25
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 1124, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 1087, in show_imspec
+    renpy.config.show(name,
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\exports\displayexports.py", line 477, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\display\image.py", line 421, in find_target
+    self.target = target._duplicate(a)
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\display\displayable.py", line 249, in _duplicate
+    args.extraneous()
+  File "C:\Users\isisn\Downloads\renpy-8.3.7-sdk\renpy\display\displayable.py", line 109, in extraneous
+    raise Exception("Image '{}' does not accept attributes '{}'.".format(
+Exception: Image 'kaiden happy' does not accept attributes 'zoom 0 .25'.
+
+Windows-10-10.0.26100 AMD64
+Ren'Py 8.3.7.25031702
+my question 1.0
+Mon Apr 28 23:39:38 2025

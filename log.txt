@@ -1,0 +1,45 @@
+2025-04-29 06:03:55 UTC
+Windows-10-10.0.26100
+Ren'Py 8.3.7.25031702
+
+Early init took 0.12s
+Loading error handling took 0.06s
+Loading script took 0.28s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\isisn\\AppData\\Roaming/RenPy/backups\\Lactose Simulator':
+Dump and make backups took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.01s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.05s
+Running _start took 0.01s
+Interface start took 1.75s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1200)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) UHD Graphics'
+Version: b'4.6.0 - Build 32.0.101.6078'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096

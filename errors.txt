@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/images/images.rpy", line 1: end of line expected.
+    image kaiden happy: ['kaiden happy.png'] 
+                        ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Tue Apr 29 02:03:30 2025

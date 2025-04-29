@@ -1,0 +1,16 @@
+image kaiden happy = "kaiden happy.png"
+
+image kaiden mad = "kaiden_angry.png"
+
+image alice happy = "alice_happy.png"
+image alice annoyed = "alice_annoyed.png"
+image alice angry = "alice_angry.png"
+image oliver talking = "oliver_talking.png"
+image oliver happy = "oliver_happy.png"
+image oliver sad = "oliver_sad.png"
+image oliver confused = "oliver_confused.png"
+image professor happy = "professor_happy.png"
+image professor mad = "professor_mad.png"
+image robinson happy = "robinson_happy.png"
+image robinson uncomfy = "robinson_uncomfy.png"
+image robinson confused = "robinson_confused.png"
